@@ -1,0 +1,35 @@
+.cabeza{
+    max-width: 375px;
+    height: 65px;
+    margin: auto;
+    border: 2px solid black;
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.a1{
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    gap: 200px;
+}
+.d1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    margin-left: 10px;
+    font-size: 20px;
+    font-family: fantasy;
+}
+.d2{
+    margin-right: 10px;
+    font-size: 15px;
+    font-family: monospace;
+    color: aliceblue;
+    border: 2px solid black;
+    border-radius: 2px;
+    background-color: gray;
+}
+
