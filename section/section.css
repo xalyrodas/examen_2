@@ -1,0 +1,36 @@
+.cuerpo{
+    max-width: 375px;
+    height: 430px;
+    border: 2px solid black;
+}
+.c1{
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    padding: 50px;
+    display: grid;
+    grid-template-rows: 30px 1fr;
+    background-color: aqua;
+    
+}
+.d3{
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    padding: 50px;
+    display: grid;
+    grid-template-rows: 30px 1fr;
+    background-color: aqua; 
+}
+.d4{
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    padding: 50px;
+    display: grid;
+    grid-template-rows: 30px 1fr;
+    background-color: aqua; 
+}
